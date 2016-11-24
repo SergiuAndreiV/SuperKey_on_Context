@@ -5,5 +5,5 @@ Prevent SuperKey ( Windows Key ) conflict when running VMware Player virtual mac
 ## Dependencies:
 
 [xdotool](http://man.cx/xdotool)
-'sudo apt-get install xdotool'
+`sudo apt-get install xdotool`
 
